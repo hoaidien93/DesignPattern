@@ -1,0 +1,8 @@
+{
+    "roots": [
+        "./__test__"
+    ],
+    "transform": {
+        "^.+\\.ts?$": "ts-jest"
+    }
+}
