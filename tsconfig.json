@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "strictPropertyInitialization": false,
+        "target": "es5"
+    }
+}
